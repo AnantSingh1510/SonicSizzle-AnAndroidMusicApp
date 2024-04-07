@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324581952754",
+    "project_id": "sonicsizzle-7a422",
+    "storage_bucket": "sonicsizzle-7a422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324581952754:android:2cc747a9920aca9309146b",
+        "android_client_info": {
+          "package_name": "com.musicapp.sonicsizzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFOu9qylq5ivbe6KNx2hZWYuQKGF6O2sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
